@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "isRoot": true,
+  "tools": {
+    "mlnet-linux-x64": {
+      "version": "16.18.2",
+      "commands": [
+        "mlnet"
+      ],
+      "rollForward": false
+    }
+  }
+}
